@@ -5,7 +5,29 @@
 }
 
 body {
-    background-color: rgb(133, 209, 253);
+    background-color: rgb(114, 82, 255);
+}
+
+h1 {
+    color:rgb(68, 0, 131)
+}
+
+h2 {
+    color:rgb(68, 0, 131)
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(68, 0, 131);
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 main {
